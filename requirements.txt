@@ -1,0 +1,11 @@
+numpy
+pandas
+seaborn
+matplotlib
+plotly
+warnings
+os
+json
+spacy
+tqdm
+scikit-learn
