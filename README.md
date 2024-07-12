@@ -1,4 +1,4 @@
-# TimelineSummariztionNLP
+# TimelineSummarizationNLP
 Create a timeline summary or list that highlights the major events of the Israel-Hamas war during the specified time period from the JSON file.
 Dataset Link: https://drive.google.com/file/d/1G3P6ZWC8MLO6gDGD_DQMvzPTnyB2kVTV/view?usp=sharing 
 Create a timeline summary or list that highlights the major events of the Israel-Hamas war during the specified time period from the JSON file. 
